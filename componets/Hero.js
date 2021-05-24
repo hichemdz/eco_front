@@ -12,7 +12,7 @@ function Hero() {
                     <div className='col-span-2 md:col-span-1  md:justify-start  flex items-center'>
                         <div className=' w-full'>
                             <div className='space-y-12 mx-auto sm:max-w-md'>
-                                <h1 className='motion-safe:animate-bounce hover:text-gray-200 font-roboto text-center text-gray-800 text-3xl md:text-4xl font-black '>Stylish Sneakers</h1>
+                                <h1 className='motion-safe:animate-bounce  font-roboto text-center text-gray-800 text-3xl md:text-4xl font-black '>Stylish Sneakers</h1>
                                 <Search cls='md:max-w-md'/>
                                 <div className='flex justify-around  items-center'>
                                     <ItemProduct name='shoes' src='/images/choses1.png' />
